@@ -11,6 +11,8 @@
 
 - Github: <https://github.com/huhu0327>
 
+- Blog: <https://huhu0327.github.io>
+
 ## 목차
 
 - [경력](#경력)
