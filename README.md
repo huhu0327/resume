@@ -5,7 +5,7 @@
 **좋은 개발문화가 좋은 개발자**를 만든다고 생각합니다.  
 보다 더 효율적이고 읽기 쉬운 코드를 작성하는 개발자가 되려고 노력하고있습니다.
 
-- 병역: 미필/보충역
+- 병역: `미필/보충역`
 
 - Email: ndr.developer@gmail.com
 
@@ -19,7 +19,7 @@
   - 디지털존
   - 디지털존 현장실습
 
-- [개인 프로젝트](#개인-프로젝트)
+- [개인/팀 프로젝트](#개인/팀-프로젝트)
   - wsist - 오늘 뭐 부르지?
   - StickerMemo
   - ColorPicker
@@ -45,7 +45,7 @@
 
 - 2018.09 ~ 2018.10
 
-## 개인 프로젝트
+## 개인/팀 프로젝트
 
 ### wsist - 오늘 뭐 부르지?
 
@@ -53,7 +53,7 @@
 노래방에서 부를 곡들을 저장하고 번호를 검색할 수 있는 앱
 
 - 기간 : 2020.03 (진행 중)
-- 사용기술 : Kotlin, MVP, DataBinding, Dagger2, Realm
+- 사용기술 : `Kotlin`, `MVP`, `DataBinding`, `Dagger2`, `Realm`
 
 ### StickerMemo
 
@@ -61,8 +61,8 @@
 
 [자세히](https://github.com/huhu0327/StickerMemo)
 
-- 기간 : 2018.04
-- 사용기술 : Winform, C#
+- 기간 : 2018.04 (총 1일)
+- 사용기술 : `Winform`, `C#`
 
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/75358521-5e914800-58f6-11ea-8aa8-bf743c47e352.png">
 
@@ -72,8 +72,8 @@
 
 [자세히](https://github.com/huhu0327/ColorPicker)
 
-- 기간 : 2018.04
-- 사용기술 : Winform, C#
+- 기간 : 2018.04 (총 3일)
+- 사용기술 : `Winform`, `C#`
 
 <img Height="200" src="https://raw.githubusercontent.com/huhu0327/ColorPicker/master/Resources/p2.PNG">
 
@@ -81,8 +81,8 @@
 
 학급 친구와 팀을 결성하여 하스스톤의 게임 캐릭터로 만든 2D 캐쥬얼 게임
 
-- 기간 : 2017.11
-- 사용기술 : Unity3D, NGUI, C#, ITween
+- 기간 : 2017.11 (총 3주)
+- 사용기술 : `Unity3D`, `NGUI`, `C#`, `ITween`
 
 > 2017 동아리발표대회최우수상 수상
 
@@ -96,8 +96,8 @@
 넷마블게임아카데미 2기에 참가하여 2D RPG 게임 개발  
 책임감과 커뮤니케이션의 중요성을 경험
 
-- 기간 : 2017.05 ~ 2018.01
-- 사용기술 : Unity3D, NGUI, C#, Json Parse
+- 기간 : 2017.05 ~ 2018.01 (총 9개월)
+- 사용기술 : `Unity3D`, `NGUI`, `C#`, `Json Parse`
 
 <div>
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/75356824-cbefa980-58f3-11ea-9054-d27fca1dfe52.png">
@@ -109,7 +109,7 @@
 2D 종스크롤 슈팅 게임  
 첫 게임 프로젝트로 개발에 대한 열정이 많아짐
 
-- 기간 : 2016.12
+- 기간 : 2016.12 (총 5일)
 - 사용기술 : Cocos2d-x, C++
 
 <div>
@@ -121,19 +121,20 @@
 
 ### 정부과제 전통무형문화
 
-전통무형문화 정부과제 3차 수행
+전통무형문화 정부과제 3차 수행  
+전통무형장인들이 만든 초 작품을 수정/추가/관리를 용이하게 해주는 편집 프로그램 개발
 
-- 기간 : 2019.01 ~ 2019.08
+- 기간 : 2019.01 ~ 2019.08 (총 8개월)
 - 소속 : 디지털존
-- 사용기술 : WPF, C#, MVVM, MahApps-MaterialDesign, PDFSharp
+- 사용기술 : `WPF`, `C#`, `MVVM`, `MaterialDesign`, `PDFSharp`
 
 ### 대학 제증명 발급 서비스
 
-증명서 무인발급 서비스 클라이언트 프로그램
+증명서 무인발급 서비스 클라이언트 프로그램 개발
 
-- 기간 : 2018.12 ~ 2019.05
+- 기간 : 2018.12 ~ 2019.05 (총 6개월)
 - 소속 : 디지털존
-- 사용기술 : Unity3D, ITween, WPF, C#, MVVM, Localization(xml), RestAPI, FTP Server Deploy&Update
+- 사용기술 : `Unity3D`, `ITween`, `WPF`, `C#`, `MVVM`, `Localization(xml)`, `RestAPI`, `Deploy&Update using FTP`
 
 <img width="200" src="https://user-images.githubusercontent.com/28612967/75354405-44546b80-58f0-11ea-8b1f-29b1f4524f5a.png">
 
@@ -141,9 +142,9 @@
 
 [풋볼팬타지움](http://faentasium.com/)의 축구 유니폼 피팅 컨텐츠
 
-- 기간 : 2018.10 ~ 2019.01
+- 기간 : 2018.10 ~ 2019.01 (총 4개월)
 - 소속 : 디지털존
-- 사용기술 : Unity3D, NGUI, C#, KinectV2, MariaDB, Localization(CSV)
+- 사용기술 : `Unity3D`, `NGUI`, `C#`, `KinectV2`, `MariaDB`, `Localization(CSV)`
 
 <img width="200" src="https://user-images.githubusercontent.com/28612967/75354311-1b33db00-58f0-11ea-9b52-ad0132138f00.png">
 
