@@ -63,9 +63,11 @@
   - 모니터링/업데이트/배포 프로그램 개발
   - 다국어 처리
 
+<div>
 <img width="200" src="https://user-images.githubusercontent.com/28612967/93369308-28171c80-f88a-11ea-9b50-8d0cf76e0a6f.png">
 <img width="200" src="https://user-images.githubusercontent.com/28612967/93369311-29484980-f88a-11ea-8bd2-de17044978f2.png">
 <img width="200" src="https://user-images.githubusercontent.com/28612967/93369310-29484980-f88a-11ea-8d7e-af24d6daa8f3.png">
+</div>
 
 ---
 
@@ -83,8 +85,10 @@
   - 모델 리깅/ 텍스쳐 매핑 작업
   - 다국어 지원
 
+<div>
 <img width="200" src="https://user-images.githubusercontent.com/28612967/93372392-cefdb780-f88e-11ea-9759-21a9e84c752c.png">
 <img width="200" src="https://user-images.githubusercontent.com/28612967/93372396-d02ee480-f88e-11ea-8c9c-c60c03d22e9b.png">
+</div>
 
 ## 기타 프로젝트
 
