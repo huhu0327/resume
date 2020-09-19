@@ -11,7 +11,7 @@
 
 [DigitalZone](http://www.doculink.co.kr)
 
-> 학교와 병행을 하며 40여개의 대학교에 서비스 중인 제증명 발급 서비스를 Desktop 앱으로 개발하였습니다.
+> 학교와 병행을 하며 40여개의 대학교에 서비스 중인 증명서 발급 서비스를 Desktop 앱으로 개발하였습니다.
 
 - 전자사업본부 개발팀
 - Desktop 앱 신규 개발 및 유지보수
@@ -26,13 +26,9 @@
 - 방송통신대학교 컴퓨터과학과 3학년 편입 (2019.03 ~)
 - 한세사이버보안고등학교 게임과 졸업 (2016.03 ~ 2019.02)
 
-## 수상
-
-- 2017 동아리발표대회 최우수상
-
 ## 프로젝트
 
-### 디지털존
+### Digitalzone
 
 **전통무형문화**
 
@@ -40,7 +36,7 @@
 
 - 2인
 - 기간 : 2019.01 ~ 2019.08 (총 8개월)
-- 개발 기술 : C#, WPF, MVVM, Material Design In XAML Toolkit
+- 개발 기술 : C#/.NET, WPF, MVVM, Material Design In XAML Toolkit
 - 담당 업무
   - Desktop App 뼈대 제작
   - Print Spooler, PDF 관련 유틸 모듈 개발
@@ -50,13 +46,13 @@
 
 **대학 제증명 문서 발급 서비스**
 
-> DigitalZone에서의 제증명 문서 발급 프로젝트는 Delphi와 JSP로 개발된 프로젝트였습니다. 추가 개발에 필요한 인원 및 구현 불가 문제로 C# 환경으로 컨버팅하였습니다.
+> 기존 제증명 문서 발급 프로젝트는 Delphi와 JSP로 개발었습니다. 추가 개발에 필요한 인원 및 기능 구현 불가 문제로 C# 환경으로 컨버팅하였습니다.
 >
 > Unity를 기반으로 클라이언트를 제작하였으며, 기존 기능들은 REST API로 지원 받아 적용하였습니다. 외국인을 위한 한/영 언어 처리를 진행하였습니다. 추가적으로 WPF로 모니터링, 업데이트 및 배포 프로그램을 개발하였습니다.
 
 - 3인
 - 기간 : 2018.12 ~ 2019.05 (총 6개월)
-- 개발 기술 : Unity3d, C#, WPF, MVVM, Material Design In XAML Toolkit, FTP, RestAPI
+- 개발 기술 : Unity3d, C#/.NET, WPF, MVVM, Material Design In XAML Toolkit, FTP, RestAPI
 - 담당 업무
   - Client 구조 설계 및 코드 리팩토링
   - 결제, 출력 페이지 구현
@@ -79,7 +75,7 @@
 
 - 1인
 - 기간 : 2018.10 ~ 2019.01 (총 4개월)
-- 개발 기술 : Unity3d, NGUI, C#, KinectV2, MariaDB
+- 개발 기술 : Unity3d, NGUI, C#/.NET, KinectV2, MariaDB
 - 담당 업무
   - 기획 및 모든 기능 개발
   - 모델 리깅/ 텍스쳐 매핑 작업
@@ -99,7 +95,7 @@
 
 - 3인 ( 개발 100% 담당 )
 - 기간 : 2017.11 (총 3주)
-- 개발 기술 : Unity3d, NGUI, C#, ITween
+- 개발 기술 : Unity3d, NGUI, C#/.NET, ITween
 
 <div>
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/75357736-31906580-58f5-11ea-866c-68c933d710af.png">
@@ -116,7 +112,7 @@
 
 - 4인 ( 개발 100% 담당 )
 - 기간 : 2017.05 ~ 2018.01 (총 9개월)
-- 개발 기술 : Unity3d, NGUI, C#
+- 개발 기술 : Unity3d, NGUI, C#/.NET
 
 <div>
 <img Height="200" src="https://user-images.githubusercontent.com/28612967/75356824-cbefa980-58f3-11ea-9054-d27fca1dfe52.png">
