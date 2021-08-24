@@ -10,7 +10,7 @@
 
 # 경력
 
-[디지털존마포지점](http://doculink.co.kr)
+[디지털존](http://doculink.co.kr)
 
 - 전자사업본부 개발2팀/사원
 - Desktop App Developer
@@ -99,36 +99,3 @@ VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 �
 # 기타
 
 - [개인 프로젝트](https://github.com/huhu0327/etc-projects)
-
-<!--
-
-**손패찐**
-
-> 고등학생 시절, 동아리발표대회에 참가하여 최우수상을 수상한 게임입니다.
-> 하스스톤 캐릭터를 소재로 한 캐쥬얼 게임 ( 앵그리버드 방식)이며, NGUI로 UI를 구성하였고 포물선은 ITween을 이용하여 표현하였습니다. 파티클 시스템에 집중을 가장 많이 하였습니다.
-
-- 3인 ( 개발 100% 담당 )
-- 기간 : 2017.11 (총 3주)
-- 개발 기술 : Unity3d, NGUI, C#/.NET, ITween
-
-<div>
-<img Height="200" src="https://user-images.githubusercontent.com/28612967/75357736-31906580-58f5-11ea-866c-68c933d710af.png">
-<img Height="200" src="https://user-images.githubusercontent.com/28612967/75357740-32c19280-58f5-11ea-9c86-79ec0343109d.png">
-</div>
-
----
-
-**CaveMeal**
-
-> 넷마블게임아카데미 2기에 참가하여 만든 2D RPG 게임입니다. 요리사가 몬스터를 죽이면서 요리 재료를 수집하여 조합하며 성장해나가는 방식입니다.
->
-> ObjectPooling 기법을 사용하여 몹을 관리하였으며, 최적화를 중점으로 개발하였습니다.
-
-- 4인 ( 개발 100% 담당 )
-- 기간 : 2017.05 ~ 2018.01 (총 9개월)
-- 개발 기술 : Unity3d, NGUI, C#/.NET
-
-<div>
-<img Height="200" src="https://user-images.githubusercontent.com/28612967/75356824-cbefa980-58f3-11ea-9054-d27fca1dfe52.png">
-<img Height="200" src="https://user-images.githubusercontent.com/28612967/75356833-ce520380-58f3-11ea-9847-6e0f42b8e50b.png">
-</div> -->
