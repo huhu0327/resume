@@ -10,13 +10,10 @@
 
 # 경력
 
-[디지털존](http://doculink.co.kr)
+[디지털존](http://doculink.co.kr) ( 2018.11 ~ 2019.08 )
 
 - 전자사업본부 개발2팀/사원
 - Desktop App Developer
-- 기간
-
-  2018.11 ~ 2019.08
 
 # 프로젝트
 
