@@ -96,3 +96,4 @@ VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 �
 # 기타
 
 - [개인 프로젝트](https://github.com/huhu0327/etc-projects)
+- [PDF](https://huhu0327.github.io/resume-pdf/)
