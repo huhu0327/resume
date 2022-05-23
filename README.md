@@ -6,7 +6,7 @@
 
 # 경력
 
-[디지털존](http://doculink.co.kr) ( 2018.11 ~ 2019.08 )
+[디지털존](http://doculink.co.kr){:target="_blank"} ( 2018.11 ~ 2019.08 )
 
 - 전자문서사업본부 개발2팀 Desktop App Developer, 사원
 
@@ -18,7 +18,7 @@
 
 - 전통무형 그래픽 편집 렌더링 기술 추가 기능 개발 및 QA
 - C#, WPF
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe) - 2017 문화기술(CT) 연구개발 지원사업
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe){:target="_blank"} - 2017 문화기술(CT) 연구개발 지원사업
 
 ## 키오스크 대학제증명 무인 발급 프로그램 리뉴얼
 
@@ -26,7 +26,7 @@
 
 - WAS로 개발된 기존 서비스를 C# .NET 환경으로 재개발 및 유지보수
 - C#, Unity3d
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=serv_univ_kios)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=serv_univ_kios){:target="_blank"}
 
 ## 키오스크 대학제증명 무인 발급 매니저 프로그램 개발
 
@@ -41,7 +41,7 @@
 
 - Kinect 기기를 이용한 3D 가상 피팅 기능 개발
 - C#, Unity3d, NGUI,KinectV2, MariaDB, KinectV2 SDK
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_virt)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_virt){:target="_blank"}
 
 ## 풋볼팬타지움 콘텐츠 유지보수 및 정기 방문점검
 
@@ -49,7 +49,7 @@
 
 - VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 정기 방문점검
 - Unity3d, NGUI, C#, KinectV2
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_spor)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_spor){:target="_blank"}
 
 # 자격
 
@@ -57,5 +57,5 @@
 
 # 기타
 - 병역 사항, 해당없음
-- [개인 프로젝트](https://github.com/huhu0327/etc-projects)
-- [PDF](https://huhu0327.github.io/resume-pdf/)
+- [개인 프로젝트](https://github.com/huhu0327/etc-projects){:target="_blank"}
+- [PDF](https://huhu0327.github.io/resume-pdf/){:target="_blank"}
