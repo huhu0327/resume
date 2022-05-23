@@ -1,99 +1,61 @@
-# 소개
-
-- 이름: 남다름
-
-- 병역: 미필/보충역
+# 남다름
 
 - Email: ndr.developer@gmail.com
 
-- Github: [huhu0327](https://github.com/huhu0327)
+- Github: https://github.com/huhu0327
 
 # 경력
 
 [디지털존](http://doculink.co.kr) ( 2018.11 ~ 2019.08 )
 
-- 전자사업본부 개발2팀/사원
-- Desktop App Developer
+- 전자문서사업본부 개발2팀 Desktop App Developer, 사원
 
 # 프로젝트
 
-## R&D 전통무형문화 전형 기술 기반 응용 서비스 개발
+## 정부 R&D과제 전통무형문화 전형 기술 기반 응용 서비스 개발
 
 `디지털존, 2019.03 ~ 2019.08`
 
-정부과제 전통무형문화 3차 QA 및 추가 기능 개발
-
-- C#, WPF, MVVM 개발
-
-- 렌더링 기술 개발 MFC 프로젝트 분석 및 QA
-- WPF, MVVM UI 프로그래밍 후 모듈 래핑
+- 전통무형 그래픽 편집 렌더링 기술 추가 기능 개발 및 QA
+- C#, WPF
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe) - 2017 문화기술(CT) 연구개발 지원사업
 
 ## 키오스크 대학제증명 무인 발급 프로그램 리뉴얼
 
 `디지털존, 2019.01 ~ 2019.06`
 
-기존 웹으로 제공된 서비스를 C#으로 재개발 및 유지보수
+- WAS로 개발된 기존 서비스를 C# .NET 환경으로 재개발 및 유지보수
+- C#, Unity3d
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=serv_univ_kios)
 
-- Unity3d, C#, WPF, MVVM RestSharp
+## 키오스크 대학제증명 무인 발급 매니저 프로그램 개발
 
-- 서비스 클라이언트 개발에 기여 (Unity3D + Console)
+`디지털존, 2019.07 ~ 2019.08`
 
-  - REST API를 활용하여 증명서 발급, 결제 서비스 구현
-  - XML 파일을 파싱하여 한/영 Localization 작업
-
-- 서비스 클라이언트 관리 프로그램 개발 (WPF MVVM)
-
-  - 업데이트 체크, ONS서버 통신, 모니터링 서비스, 기관 파일
-
-- 코드 리팩토링 및 성능 개선
-  - REST API 비동기 호출로 증명서 발급 속도 개선
+- 증명서 발급 서비스 모니터링, 프로그램 세팅, 자동 배포 기능 개발
+- C#, WPF, RestSharp
 
 ## 풋볼팬타지움 축구 유니폼 가상 피팅 콘텐츠 개발
 
 `디지털존, 2018.9 ~ 2019.01`
 
-사용자의 동작을 인식하여 유니폼을 입히는 축구 콘텐츠 개발
-
-- Unity3d, NGUI, C#, KinectV2, MariaDB, KinectV2 SDK 개발
-
-- 모션 인식 기기를 이용한 가상 피팅 기능 개발
-
-  - 유니폼 모델 Rigging 작업으로 자연스러운 움직임 구현
-  - 방문 티켓 RFID 시리얼 통신
-
-- 서비스 아키텍처 설계 및 구현
-- 외국인 방문자를 위한 4개 국어 지역화 작업
+- Kinect 기기를 이용한 3D 가상 피팅 기능 개발
+- C#, Unity3d, NGUI,KinectV2, MariaDB, KinectV2 SDK
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_virt)
 
 ## 풋볼팬타지움 콘텐츠 유지보수 및 정기 방문점검
 
 `디지털존, 2018.9 ~ 2019.07`
 
-VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 정기 방문점검
-
+- VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 정기 방문점검
 - Unity3d, NGUI, C#, KinectV2
-
-- 코드 레벨 버그 수정
-- 콘텐츠 장비 점검
-
-# 활동
-
-- .NET Conf 2021 x Seoul (2021.01)
-- 유니티 로드쇼 2017 성남 (2017.11)
-- 넷마블 게임 아카데미 2기 (2017.04)
-- 인벤 게임 컨퍼런스 (2017.08)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_spor)
 
 # 자격
 
 - 정보처리기능사 (2016.09)
-- 자동차운전면허증 2증 보통 (2020.05)
-
-# 학력
-
-- 방송통신대학교 컴퓨터과학과 3학년 편입 (2020.03 ~)
-- 국가평생교육진흥원 컴퓨터공학 (2019.03 ~ 2020.12)
-- 한세사이버보안고등학교 게임과 졸업 (2016.03 ~ 2019.02)
 
 # 기타
-
+- 병역 사항, 해당없음
 - [개인 프로젝트](https://github.com/huhu0327/etc-projects)
 - [PDF](https://huhu0327.github.io/resume-pdf/)
