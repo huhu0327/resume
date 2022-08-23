@@ -18,10 +18,7 @@
 
 - 전통무형 그래픽 편집 렌더링 기술 추가 기능 개발 및 QA
 - C#, WPF
-- <a onclick="location.href='http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe'; window.scrollTo({ top: 750,behavior: 'smooth' }); return false;">LINK</a> - 2017 문화기술(CT) 연구개발 지원사업
-
-<!-- <a href="http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe" onclick="window.scrollTo({ top: 750,behavior: 'smooth' }); return false;">CLICK</a> -->
-
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe) - 2017 문화기술(CT) 연구개발 지원사업
 
 ## 키오스크 대학제증명 무인 발급 프로그램 리뉴얼
 
