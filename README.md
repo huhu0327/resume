@@ -1,6 +1,6 @@
 # 남다름
 
-- Email: ndr.developer@gmail.com
+- Email: namdalen1115@gmail.com
 
 - Github: https://github.com/huhu0327
 
@@ -8,7 +8,7 @@
 
 [디지털존](http://doculink.co.kr) ( 2018.11 ~ 2019.08 )
 
-- 전자문서사업본부 개발2팀 Desktop App Developer, 사원
+- 전자문서사업본부 개발2팀 데스크톱 응용프로그램개발, 사원
 
 # 프로젝트
 
@@ -24,7 +24,7 @@
 
 `디지털존, 2019.01 ~ 2019.06`
 
-- WAS로 개발된 기존 서비스를 C# .NET 환경으로 재개발 및 유지보수
+- WAS로 개발된 기존 서비스를 C# .NET 서비스로 재개발 및 유지보수
 - C#, Unity3d
 - [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=serv_univ_kios)
 
@@ -41,7 +41,7 @@
 
 - Kinect 기기를 이용한 3D 가상 피팅 기능 개발
 - C#, Unity3d, NGUI,KinectV2, MariaDB, KinectV2 SDK
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_virt)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_meta_virt)
 
 ## 풋볼팬타지움 콘텐츠 유지보수 및 정기 방문점검
 
@@ -49,13 +49,10 @@
 
 - VR 체험, 스크린 축구, 가상 피팅 3개 콘텐츠의 유지보수 및 정기 방문점검
 - Unity3d, NGUI, C#, KinectV2
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_vrar_spor)
+- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_meta_spor)
 
 # 자격
-
 - 정보처리기능사 (2016.09)
 
 # 기타
-- 병역 사항, 해당없음
 - [개인 프로젝트](https://github.com/huhu0327/etc-projects)
-- [PDF](https://huhu0327.github.io/resume-pdf/)
