@@ -1,6 +1,6 @@
 # 남다름
 
-- Email: namdalen1115@gmail.com
+- Email: developer.diff@gmail.com
 
 - Github: https://github.com/huhu0327
 
@@ -16,9 +16,9 @@
 
 `디지털존, 2019.03 ~ 2019.08`
 
-- 전통무형 그래픽 편집 렌더링 기술 추가 기능 개발 및 QA
+- GUI 개발 및 모듈 안정화 테스트
 - C#, WPF
-- [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe) - 2017 문화기술(CT) 연구개발 지원사업
+- [LINK1](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=busi_proj_refe), [LINK2](https://www.ntis.go.kr/ThSearchProjectList.do?gubun=link&searchWord=%EC%A0%84%ED%86%B5%EB%AC%B4%ED%98%95%EB%AC%B8%ED%99%94&searchSentence=&searchViewData=&searchType=&oldSearchWord=%EC%A0%84%ED%86%B5%EB%AC%B4%ED%98%95%EB%AC%B8%ED%99%94&resultSearch=&pageNumber=1&ssoKnfSlct=&ascDesc=ASC&useYn=N&oldQuery=%EC%A0%84%ED%86%B5%EB%AC%B4%ED%98%95%EB%AC%B8%ED%99%94&oldAddQuery=&dbt=project&subPjt=N&searchOption16=&multiPopup=N&pageYn=&technologyClassification=ST&directorySearchYear=&directorySearchOption1=&directorySearchOption2=&directorySearchOption3=&searchDirViewOptionST=&searchDirViewOption6T=&searchDirViewOptionIA=&directoryStandClass=&directorySixClass=&directoryImportantClass=&downloadTarget=project&startRow=&endRow=&rqstPurpCd=&infoPrctuseDes=&layerChoice=&pageSize=10&sort=RANK%2FDESC&pageSize=10) - 2017 문화기술(CT) 연구개발 지원사업
 
 ## 키오스크 대학제증명 무인 발급 프로그램 리뉴얼
 
