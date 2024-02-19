@@ -28,7 +28,7 @@
 - C#, Unity3d
 - [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=serv_univ_kios)
 
-## 키오스크 대학제증명 무인 발급 매니저 프로그램 개발
+## 키오스크 대학제증명 무인 발급 매니저, 업로드 프로그램 개발
 
 `디지털존, 2019.07 ~ 2019.08`
 
@@ -39,7 +39,7 @@
 
 `디지털존, 2018.9 ~ 2019.01`
 
-- Kinect 기기를 이용한 3D 가상 피팅 기능 개발
+- 모션센서를 이용한 3D 가상 피팅 콘텐츠 개발
 - C#, Unity3d, NGUI,KinectV2, MariaDB, KinectV2 SDK
 - [LINK](http://www.doculink.co.kr/servlet/WMINDEX?COMMAND=prod_meta_virt)
 
