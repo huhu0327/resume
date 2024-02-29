@@ -4,6 +4,8 @@
 
 - Github: https://github.com/huhu0327
 
+- Notion: https://www.notion.so/huhu0327/b621a1ac7eb64ba08028b18409f2fc22?pvs=4
+
 # 경력
 
 [디지털존](http://doculink.co.kr) ( 2018.11 ~ 2019.08 )
