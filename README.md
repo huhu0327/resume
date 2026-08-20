@@ -4,11 +4,9 @@
 
 - Github: https://github.com/huhu0327
 
-- Notion: https://www.notion.so/huhu0327/b621a1ac7eb64ba08028b18409f2fc22?pvs=4
-
 # 경력
 
-[코트라스](http://www.netblue.co.kr/) ( 2024.03 ~ ing )
+[코트라스](http://www.netblue.co.kr/) ( 2024.03 ~ 2026.05 )
 - 연구/개발팀, 사원
 - 윈도우 응용프로그램 개발 / 재활의료 콘텐츠 프로그램
 
@@ -17,6 +15,26 @@
 - 윈도우 응용프로그램 개발 / 키오스크 제증명서 발급 프로그램
 
 # 프로젝트
+
+## CoTras-G Hybrid 앱 개발
+`코트라스, 2025.12 ~ 2026.05`
+
+- Unity 기반 인지재활 서비스 클라이언트 개발
+- Unity, C#, UI Toolkit, Reflex, R3, UniTask, Supabase, SQLite, MasterMemory, REST API
+
+## 아동용 보행유도로봇 앱 개발
+`코트라스, 2024.05 ~ 2025.12`
+
+- 아동 재활 보행로봇용 Unity GUI 및 외부 장비 연동 개발
+- Unity, C#, ROS, TCP, RS-232C, Reflex, R3, UniTask
+- [LINK1](https://www.khidi.or.kr/board/view?linkId=48938553&menuId=MENU01499)
+
+## CoTras-G Hybrid 골든벨 앱 개발
+`코트라스, 2025.03 ~ 2025.10`
+
+- 인지재활 콘텐츠 기반 실시간 경쟁대회 운영 앱 개발
+- Unity, C#, Reflex, R3, UniTask, Firebase, SQLite, TCP/UDP
+- [LINK1](https://www.youtube.com/watch?v=s5JvzDznfv0)
 
 ## R&D과제 전통무형문화 전형 기술 기반 응용 서비스 개발
 
